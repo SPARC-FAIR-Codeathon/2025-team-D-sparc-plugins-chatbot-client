@@ -1,4 +1,4 @@
-# 2025-team-D-sparc-plugins-chatbot
+# 2025-team-D-sparc-plugins-chatbot-client
 
 ## Table of contents
 * [Summary of functionality](#summary-of-functionality)
