@@ -197,7 +197,7 @@ const connectWebSocket = () => {
   }
 
   try {
-    ws = new WebSocket('ws://localhost:8080/ws/chat')
+    ws = new WebSocket('ws://130.216.217.115:8080/ws/chat')
     
     ws.onopen = () => {
       console.log('WebSocket connected')
